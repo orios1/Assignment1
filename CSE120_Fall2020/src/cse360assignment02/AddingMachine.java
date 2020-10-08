@@ -9,7 +9,7 @@ public class AddingMachine {
 
 	// constructor, initializes the instance variable
 	public AddingMachine() {
-		total = 0; // not needed - included for clarity
+		total = 0; 
 		history = "0";
 	}
 	
